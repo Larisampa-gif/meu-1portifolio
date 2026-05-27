@@ -1,4 +1,9 @@
-imagens/analise-vendas-2020-pagina-1.png
+Bem-vindo ao meu portfólio de projetos desenvolvidos em **Power BI**!
+
+Aqui você encontra dashboards e análises que demonstram minhas habilidades na visualização e interpretação de dados.
+
+Este projeto foi desenvolvido com o objetivo de monitorar e analisar a performance de vendas de uma empresa fictícia ao longo de 2020. O dashboard reúne indicadores estratégicos e visuais interativos que permitem acompanhar metas, resultados e tendências de forma clara e dinâmica.
+
 
 <img width="1100" height="615" alt="1Im - Analise de venda 2020" src="https://github.com/user-attachments/assets/411ae5ec-266c-4e35-b0bc-8f23db0482e8" />
 
